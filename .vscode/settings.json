@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "https://studio.firebase.google.com/meeg-75151260": true
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.allowVariableFontsInAccessibilityMode": true
+}
